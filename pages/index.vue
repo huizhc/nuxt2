@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">nuxt2</h1>
+      <h1 class="title">hello world</h1>
       <p class="subtitle">My Nuxt 2 application</p>
       <div class="links">
         <a
